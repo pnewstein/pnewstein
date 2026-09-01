@@ -199,13 +199,13 @@ In addition to my own projects I have contributed to other open source projects
 
 ### napari
 
-I sucessuly contributed code to napari which fixed a bug where the thick slicer
+I successfully contributed code to napari which fixed a bug where the thick slicer
 widget was not reused between activations.
 
 
 ### Navis
 
-I sucessuly contributed code to navis which fixed a bug where connectors were
+I successfully contributed code to navis which fixed a bug where connectors were
 not plotted in the correct collor
 
 ### napari-czifile2
