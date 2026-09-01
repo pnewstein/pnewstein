@@ -102,7 +102,7 @@ https://github.com/pnewstein/multi-species-homeodomain
 
 Analysis code I wrote for
 https://www.biorxiv.org/content/10.1101/2024.09.27.615552v3.abstract. In
-review, nature
+review at Nature
 
 ### Snapshot
 
