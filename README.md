@@ -1,3 +1,18 @@
+## About Me
+
+I develop quantitative microscopy workflows to investigate neural development
+in the HHMI lab of Chris Q. Doe. My work spans experimental design, image
+processing, statistical analysis, and multimodal data integration from imaging,
+scRNAseq, and connectomics. I write robust and reproducible analysis pipelines
+in Python and R to uncover the genetic control of synaptogenesis, and create
+visualizations to communicate my results to the broader scientific community. I
+build and publish open-source software that is used by other researchers to
+process and quantify their imaging data. My work in data science and durable
+software development transforms large-scale data into reproducible quantitative
+measurements that reveal biologically meaningful patterns.
+
+Below is a list of my software projects:
+
 ## Software intended for public use
 
 These are the packages that were created with the intent of being used by
