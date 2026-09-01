@@ -43,14 +43,17 @@ the JOSS article contains more infomation
 
 https://github.com/pnewstein/auto-filet
 
-Projects an image of a *Drosophila* embryo into cylindrical coordinates. This
-simulates the filet prep, where the dorsal side of the embryo is cut open and
-pulled apart, and laid flat so the rightmost and leftmost side of the prep come
-from the dorsal side of the animal, and the middle of the prep comes from the
-ventral side of the animal. 
-
-This package exposes some Python classes that take napari objects and process
-the data using SciPy
+I study the body wall motor neurons of Drosophila embryos. These cells are
+present in each segment and have somata in the ventral nerve cord, and project
+axons through the body wall to the dorsal side of the animal. This cylindrical
+morphology is not amenable to standard maximum intensity projections.
+Therefore, I created this package which projects an image of a Drosophila
+embryo into cylindrical coordinates. This simulates the filet prep, where the
+dorsal side of the embryo is cut open, pulled apart, and laid flat so the
+rightmost and leftmost side of the prep come from the dorsal side of the
+animal, and the middle of the prep comes from the ventral side of the animal.
+This package exposes Python classes that take napari objects and process the
+data using SciPy.
 
 
 ### Template-6-ALH
