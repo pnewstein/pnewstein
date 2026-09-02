@@ -60,18 +60,22 @@ data using SciPy.
 
 https://github.com/pnewstein/template6alh
 
-A package to create and align to template images of the 6 hour old larval
-central nervous system. It uses a two-step approach of first aligning to a less
-detailed NCad neuropil stain, then fine-tuning based on a more detailed FasII
-stain. Uses a Python/SQLAlchemy system to manage the multi step process of
-registration and alignment using CMTK.
-
+Aligning experimental images to a common template has been an important advance
+to neuroscience; However no template image existed for the early larval
+*Drosophila* central nervous system. This is a package to create and align to
+template images of the 6 hour old larval central nervous system. It uses a
+two-step approach of first aligning to a less detailed NCad neuropil stain,
+then fine-tuning based on a more detailed FasII stain. Uses a Python/SQLAlchemy
+system to manage the multi step process of registration and alignment using
+CMTK.
 
 ## Software intended for personal use
 
 I have found that the best way to practice software development is by doing
 projects. I have found many of these projects to be useful. This is a list of
 the projects I developed and regularly use.
+
+Although the target audience is myself, I am happy to take contributions or issues!
 
 ### Embryo-VNC-Align
 
@@ -118,9 +122,8 @@ starting Napari-3D-Counter to image segmentation.
 
 https://github.com/pnewstein/multi-species-homeodomain
 
-Analysis code I wrote for
-https://www.biorxiv.org/content/10.1101/2024.09.27.615552v3.abstract. In
-review at Nature
+Analysis code I wrote for Xu et al. In review at Nature. It uses python and R
+to analyze single cell RNA sequencing data, and visualize the results.
 
 ### Snapshot
 
